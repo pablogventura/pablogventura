@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ##### I'm Pablo:
 
-- 💻 Computer Scientist | Python Developer | Data Scientist | Smart Home Enthusiast 
+- 💻 Computer Scientist | IoT Architect | Python Developer | C Developer | Data Scientist | Smart Home Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ventura-490305188/)
 
