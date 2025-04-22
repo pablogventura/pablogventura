@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 
 ##### Some of the technologies I have worked with
 
+![Esp](https://img.shields.io/badge/-ESP8266%20&%20ESP32-222222?style=flat&logo=espressif)
+![MQTT](https://img.shields.io/badge/-MQTT-222222?style=flat&logo=mqtt)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-222222?style=flat&logo=Jupyter)
-![Esp](https://img.shields.io/badge/-ESP8266%20&%20ESP32-222222?style=flat&logo=espressif)
 ![ARDUINO](https://img.shields.io/badge/-Arduino-222222?style=flat&logo=arduino)
-![Windows](https://img.shields.io/badge/-Windows-222222?style=flat&logo=windows)
 ![Android](https://img.shields.io/badge/-Android-222222?style=flat&logo=android)
-![MQTT](https://img.shields.io/badge/-MQTT-222222?style=flat&logo=mqtt)
+![Windows](https://img.shields.io/badge/-Windows-222222?style=flat&logo=windows)
 
 
 <!-- GitHub Stats -->
